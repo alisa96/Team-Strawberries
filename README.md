@@ -2,7 +2,7 @@
 
 **Team Members**\
 Bromwich Andrew\
-Garsina Alise\ 
+Garsina Alise\
 Paulauskaite Karolina\
 Vehapi Addhe
 
