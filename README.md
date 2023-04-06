@@ -8,7 +8,7 @@ Vehapi Addhe
 
 ## Table of Contents
 1. [Introduction](introduction)
-2. [Background / Goal](background / goal)
+2. [Background](background)
 3. [The As-Is-Process](#the-as-is-process)
     1. [Documents received:](#documents-received)    
     2. [File documents:](#file-documents)    
@@ -33,7 +33,7 @@ Our project team is dedicted to help the SMEs to chose the right supplier effici
 
 Our project,
 
-## Background / Goal
+## Background
 The goal of our project is to ease the process of supplier choice. Specifically, we want to digialize and automize some tasks. We want to implement some decision models with defined rules as well as create APIs to create a user friendly site to operate. 
 
 
